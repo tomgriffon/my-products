@@ -1,0 +1,52 @@
+*{
+	margin: 5px;
+	padding: 5px;
+}
+
+
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: revert-layer;
+	align-items: center;
+}
+
+
+img{
+	width: -webkit-fill-available;
+}
+
+h1{
+	marg
+	color: #0B010C;
+}
+
+p{
+	font-weight: 900;  
+	font-size: 26px;
+}
+
+
+.ficher-produit{
+	display: flex;
+	width: 80%;
+	margin: 35 auto;
+}
+
+
+.container-img{
+	display: flex;
+	flex-direction: column-reverse;
+	width: 50%;
+	gap: 25px;
+}
+
+.container-infomartion{
+	width: 60%;
+	margin: 35 auto;
+}
+
+.img-p{
+	display: flex;
+	gap: 50px;
+}
